@@ -1,32 +1,43 @@
-# 🐍 Estudos de Python
+# 🐍 Engenharia e Algoritmos com Python
 
-Repositório dedicado ao desenvolvimento da minha lógica de programação, criação de scripts automatizados e manipulação de dados utilizando a linguagem **Python**.
+Repositório dedicado ao estudo, desenvolvimento e automação utilizando a linguagem Python. Aqui centralizo meus scripts de lógica de programação, manipulação de dados, automações de tarefas e conceitos de Orientação a Objetos, seguindo as melhores práticas de Clean Code.
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
+O foco é construir uma base sólida e modular, organizando o aprendizado em blocos claros e acessíveis para facilitar a navegação e o reuso de código.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-* **Python 3**
-* **Ambientes Virtuais (venv)**
-* **Principais conceitos:** Estruturas de dados, POO (Programação Orientada a Objetos) e Automação de tarefas.
+## 🛠️ Tecnologias e Ecossistema
+
+* **Linguagem Principal:** Python 3.x
+* **Paradigmas:** Programação Estrutural e Orientação a Objetos (POO)
+* **Ambientes:** Scripts (.py) e Ambientes Virtuais (venv)
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📂 Organização dos Blocos de Estudo
 
-* `├── Fundamentos/` → Exercícios de lógica, estruturas condicionais, laços de repetição e funções.
-* `├── Automacoes/` → Scripts criados para automatizar tarefas cotidianas, leitura/escrita de arquivos e manipulação de pastas.
-* `├── Tratamento_Dados/` → Exercícios voltados para a extração, limpeza e análise inicial de dados brutos.
+O repositório está estruturado nos seguintes blocos para garantir uma navegação intuitiva:
+
+### 1. 📋 `01-fundamentos-e-logica`
+* **Foco:** Sintaxe essencial da linguagem, variáveis, tipos de dados e operadores.
+* **Conteúdo:** Estruturas condicionais (`if/elif/else`), estruturas de repetição (`while/for`), manipulação de strings e funções básicas.
+
+### 2. 🗃️ `02-estruturas-de-dados`
+* **Foco:** Organização e manipulação de coleções de dados na memória.
+* **Conteúdo:** Trabalho prático com Listas (`lists`), Tuplas (`tuples`), Dicionários (`dicts`) e Conjuntos (`sets`), além de métodos nativos de ordenação e filtragem.
+
+### 3. 🧩 `03-orientacao-a-objetos`
+* **Foco:** Modularização e arquitetura de software utilizando o paradigma de POO.
+* **Conteúdo:** Criação de Classes, Métodos, Atributos, e aplicação dos pilares de Encapsulamento, Herança, Polimorfismo e Abstração.
+
+### 4. ⚙️ `04-automacoes-e-scripts`
+* **Foco:** Resolução de problemas reais e produtividade.
+* **Conteúdo:** Manipulação de arquivos (Leitura/Escrita de TXT e CSV), automação de tarefas rotineiras e integração com o sistema operacional.
 
 ---
 
-## 🚀 O que estou praticando aqui?
-* **Clean Code:** Escrita de código limpo, legível e seguindo as boas práticas da PEP 8.
-* **Resolução de Problemas:** Criação de scripts rápidos e eficientes para otimizar processos manuais.
-* **Integração:** Preparando a base para conectar scripts Python com bancos de dados e APIs no futuro.
+## 🧑‍💻 Autor
 
----
-⚡ *Focado em escrever códigos eficientes e soluções inteligentes com a linguagem mais versátil do mercado.*
+* **Jônata Ribeiro**
+* LinkedIn: [Seu Link do LinkedIn Aqui]
+* Portfólio: [jonataribeiro.dev](https://jonataribeiro.dev)
